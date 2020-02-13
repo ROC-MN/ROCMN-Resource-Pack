@@ -1,0 +1,11 @@
+Subnetten met Delawi
+SUBNETTEN!
+Windows Server 2016
+BAGGEM!
+Pak je boek!
+Verwijderd
+255.255.255.0
+192.168.0.1
+Router
+Default gateway
+Jas uit!
